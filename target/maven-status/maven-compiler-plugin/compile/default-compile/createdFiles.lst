@@ -1,0 +1,12 @@
+org\movice\utils\JdbcUtils.class
+org\movice\controller\register\RegisterController.class
+org\movice\dao\login\LoginDao.class
+org\movice\dao\login\impl\LoginDaoImpl.class
+org\movice\service\firstpage\FirstPageService.class
+org\movice\utils\FileUtil.class
+org\movice\bean\UserInfo.class
+org\movice\service\login\impl\UserServiceImpl.class
+org\movice\service\login\UserService.class
+org\movice\utils\BaseDao.class
+org\movice\dao\firstpage\FirstPageDao.class
+org\movice\controller\login\LoginController.class
